@@ -1,8 +1,6 @@
 # Hi there 👋, I'm Rado Andriamahakajy
 
 <!-- 🎓 Currently studying at [42 Heilbronn](https://www.42heilbronn.de/) since July 2025  -->
-<!-- 💻 Data Engineering bootcamp @ [Le Wagon](https://www.lewagon.com/)  -->
-🌍 Based between Paris 🇫🇷 and Heilbronn 🇩🇪  
 🌐 Background as a **Web Developer (frontend & backend)**  
 
 ---
