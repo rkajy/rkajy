@@ -64,7 +64,7 @@
 ---
 
 ### 📫 How to reach me
-- [Linkedin: ](www.linkedin.com/in/rado-andri)
+- [Linkedin](https://www.linkedin.com/in/rado-andri)
 - Email: rado_andria@yahoo.com
 - GitHub: You’re already here 🚀  
 
