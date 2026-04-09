@@ -6,7 +6,7 @@
 ---
 
 ### 🚀 What I'm working on
-- Building solid foundations in **C, algorithms, and system programming** (42 curriculum)  
+- Building solid foundations in **C, algorithms, and system programming**
 - Exploring **data engineering tools** (Python, SQL, ETL, Cloud)  
 - Improving my **English communication skills** for studies and career opportunities  
 
@@ -56,7 +56,6 @@
 ---
 
 ### 📈 Goals for 2025
-- ✅ Complete the core projects at 42 (libft, get_next_line, printf, etc.)  
 - ✅ Strengthen collaboration skills with **peer programming & group projects**  
 - 🔜 Apply my **web development background** to data-driven projects  
 - 🔜 Contribute to open-source / community projects  
@@ -65,8 +64,8 @@
 ---
 
 ### 📫 How to reach me
-- LinkedIn: [Ton Profil LinkedIn]  
-- Email: [Ton Email Pro]  
+- [Linkedin: ](www.linkedin.com/in/rado-andri)
+- Email: rado_andria@yahoo.com
 - GitHub: You’re already here 🚀  
 
 ---
